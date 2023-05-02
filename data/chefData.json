@@ -1,7 +1,8 @@
 [
   {
     "_id": "6450b09f18b29e146ec20672",
-    "country": "Bangladesh",
+    "country": "Bangladeshi",
+    "food_img": "https://i.ibb.co/TYHL1FY/Panta-Ilish.jpg",
     "chef": [
         {
           "id": 0,
@@ -326,6 +327,7 @@
   {
     "_id": "6450b09fcd5344a45c281c13",
     "country": "Indian",
+    "food_img": "https://i.ibb.co/PFFxgwt/indian-food.jpg",
     "chef": [
         {
           "id": 0,
@@ -650,6 +652,7 @@
   {
     "_id": "6450b09f5ff0559d26ad318b",
     "country": "Thai",
+    "food_img": "https://i.ibb.co/k1CRCdB/thai-food.jpg",
     "chef": [
         {
           "id": 0,
@@ -974,6 +977,7 @@
   {
     "_id": "6450b09f39a32fb5715c59ea",
     "country": "japanese",
+    "food_img": "https://i.ibb.co/CKyLrY8/japan-food.jpg",
     "chef": [
         {
           "id": 0,
@@ -1298,6 +1302,7 @@
   {
     "_id": "6450b09f4be1906cc311294d",
     "country": "Italian",
+    "food_img": "https://i.ibb.co/64KQ3J0/itilian-food.jpg",
     "chef": [
         {
           "id": 0,
@@ -1622,6 +1627,7 @@
   {
     "_id": "6450b09f7c7f9f81b5bbb33d",
     "country": "American",
+    "food_img": "https://i.ibb.co/WWvpTgn/americian-food.jpg",
     "chef": [
         {
           "id": 0,
@@ -1946,6 +1952,7 @@
   {
     "_id": "6450b09f46fda8b7c5c36356",
     "country": "Chinese",
+    "food_img": "https://i.ibb.co/yFDWp6H/chinese-food.jpg",
     "chef": [
         {
           "id": 0,
