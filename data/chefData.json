@@ -1,0 +1,2271 @@
+[
+  {
+    "_id": "6450b09f18b29e146ec20672",
+    "country": "Bangladesh",
+    "chef": [
+        {
+          "id": 0,
+          "name": "Beasley Monroe",
+          "img": "https://i.ibb.co/pXnrp2k/Adobe-Stock-47826752-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Beasley Monroe, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Beasley Monroe has honed their skills in a variety of cuisines and cooking techniques. Beasley Monroe's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Spaghetti with Tomato Sauce.",
+              "img": "https://i.ibb.co/zZXv5nn/Adobe-Stock-63103746-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Baked Chicken Breasts.",
+              "img": "https://i.ibb.co/TgJQdS3/Adobe-Stock-67960015-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Chocolate Chip Cookies",
+              "img": "https://i.ibb.co/HXZyVQv/Adobe-Stock-83241002-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Alice Cooper",
+          "img": "https://i.ibb.co/XjcVxgx/Adobe-Stock-58238798-Preview.jpg",
+          "experience": 7,
+          "recipe": 25,
+          "likes": 230,
+          "about": "Introducing Alice Cooper, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Alice Cooper has honed their skills in a variety of cuisines and cooking techniques. Alice Cooper's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Spicy Thai Chicken Curry",
+              "img": "https://i.ibb.co/0jNw4Vz/Adobe-Stock-84217400-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Butternut Squash Soup with Crispy Sage",
+              "img": "https://i.ibb.co/72hrtJL/Adobe-Stock-105550746-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id" : 2,
+              "name": "Grilled Shrimp Skewers with Chimichurri Sauce",
+              "img": "https://i.ibb.co/wd4hQKT/Adobe-Stock-183304751-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Tyler Brown",
+          "img": "https://i.ibb.co/SPNfNKg/Adobe-Stock-128761569-Preview.jpg",
+          "experience": 6,
+          "recipe": 28,
+          "likes": 280,
+          "about": "Introducing Tyler Brown, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Tyler Brown has honed their skills in a variety of cuisines and cooking techniques. Tyler Brown's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity.",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Avocado and Tomato Salad with Lime Dressing",
+              "img": "https://i.ibb.co/zXWwY3S/Adobe-Stock-192914731-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Blueberry and Banana Smoothie Bowl",
+              "img": "https://i.ibb.co/kQCtDN5/Adobe-Stock-222537507-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Baked Parmesan Chicken with Tomato Sauce",
+              "img": "https://i.ibb.co/Fhqvpw7/Adobe-Stock-235582346-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Lily Chen",
+          "img": "https://i.ibb.co/D11V2DW/Adobe-Stock-162375830-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Lily Chen, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Lily Chen has honed their skills in a variety of cuisines and cooking techniques. Lily Chen's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity.",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Creamy Garlic Mashed Potatoes",
+              "img": "https://i.ibb.co/FKmp1RF/Adobe-Stock-246131276-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Spicy Black Bean and Sweet Potato Enchiladas",
+              "img": "https://i.ibb.co/0nc8dv1/Adobe-Stock-258979073-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Pesto and Sun-Dried Tomato Pasta Salad",
+              "img": "https://i.ibb.co/0rkVCTQ/Adobe-Stock-261968757-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Max Foster",
+          "img": "https://i.ibb.co/rdHXZ21/Adobe-Stock-182424344-Preview.jpg",
+          "experience": 8,
+          "recipe": 26,
+          "likes": 300,
+          "about": "Introducing Max Foster, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Max Foster has honed their skills in a variety of cuisines and cooking techniques. Max Foster's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Chocolate Chip Banana Bread",
+              "img": "https://i.ibb.co/z5cMwcn/Adobe-Stock-308404590-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Roasted Brussels Sprouts with Balsamic Glaze",
+              "img": "https://i.ibb.co/7SVfjbt/Adobe-Stock-310399331-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Mediterranean Quinoa Salad with Feta and Olives",
+              "img": "https://i.ibb.co/Gsvm22d/Adobe-Stock-322832523-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Ava Wilson",
+          "img": "https://i.ibb.co/59YJ83P/Adobe-Stock-215213355-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Ava Wilson, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Ava Wilson has honed their skills in a variety of cuisines and cooking techniques. Ava Wilson's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Sweet and Sour Pork Stir-Fry",
+              "img": "https://i.ibb.co/1RmpHVY/Adobe-Stock-386450251-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Roasted Vegetable Frittata",
+              "img": "https://i.ibb.co/YQb4RZS/Adobe-Stock-578476057-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Roasted Vegetable Frittata",
+              "img": "https://i.ibb.co/zXWwY3S/Adobe-Stock-192914731-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "_id": "6450b09fcd5344a45c281c13",
+    "country": "Indian",
+    "chef": [
+        {
+          "id": 0,
+          "name": "Sarah Carter",
+          "img": "https://i.ibb.co/M2D9ygS/Adobe-Stock-268233954-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Sarah Carter, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Sarah Carter has honed their skills in a variety of cuisines and cooking techniques. Sarah Carter's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Spaghetti with Tomato Sauce.",
+              "img": "https://i.ibb.co/zZXv5nn/Adobe-Stock-63103746-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Baked Chicken Breasts.",
+              "img": "https://i.ibb.co/TgJQdS3/Adobe-Stock-67960015-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Chocolate Chip Cookies",
+              "img": "https://i.ibb.co/HXZyVQv/Adobe-Stock-83241002-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Rachel Green",
+          "img": "https://i.ibb.co/NnRBphX/Adobe-Stock-268705523-Preview.jpg",
+          "experience": 7,
+          "recipe": 25,
+          "likes": 230,
+          "about": "Introducing Rachel Green, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Rachel Green has honed their skills in a variety of cuisines and cooking techniques. Rachel Green's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Spicy Thai Chicken Curry",
+              "img": "https://i.ibb.co/0jNw4Vz/Adobe-Stock-84217400-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Butternut Squash Soup with Crispy Sage",
+              "img": "https://i.ibb.co/72hrtJL/Adobe-Stock-105550746-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id" : 2,
+              "name": "Grilled Shrimp Skewers with Chimichurri Sauce",
+              "img": "https://i.ibb.co/wd4hQKT/Adobe-Stock-183304751-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Michael Jackson",
+          "img": "https://i.ibb.co/RB6FXXt/Adobe-Stock-290517157-Preview.jpg",
+          "experience": 6,
+          "recipe": 28,
+          "likes": 280,
+          "about": "Introducing Michael Jackson, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Michael Jackson has honed their skills in a variety of cuisines and cooking techniques. Michael Jackson's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity.",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Avocado and Tomato Salad with Lime Dressing",
+              "img": "https://i.ibb.co/zXWwY3S/Adobe-Stock-192914731-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Blueberry and Banana Smoothie Bowl",
+              "img": "https://i.ibb.co/kQCtDN5/Adobe-Stock-222537507-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Baked Parmesan Chicken with Tomato Sauce",
+              "img": "https://i.ibb.co/Fhqvpw7/Adobe-Stock-235582346-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Thomas Brown",
+          "img": "https://i.ibb.co/Ybh7ZBR/Adobe-Stock-290924250-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Thomas Brown, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Thomas Brown has honed their skills in a variety of cuisines and cooking techniques. Thomas Brown's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity.",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Creamy Garlic Mashed Potatoes",
+              "img": "https://i.ibb.co/FKmp1RF/Adobe-Stock-246131276-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Spicy Black Bean and Sweet Potato Enchiladas",
+              "img": "https://i.ibb.co/0nc8dv1/Adobe-Stock-258979073-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Pesto and Sun-Dried Tomato Pasta Salad",
+              "img": "https://i.ibb.co/0rkVCTQ/Adobe-Stock-261968757-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Emma Smith",
+          "img": "https://i.ibb.co/qDnqv1P/Adobe-Stock-293419914-Preview.jpg",
+          "experience": 8,
+          "recipe": 26,
+          "likes": 300,
+          "about": "Introducing Emma Smith, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Emma Smith has honed their skills in a variety of cuisines and cooking techniques. Emma Smith's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Chocolate Chip Banana Bread",
+              "img": "https://i.ibb.co/z5cMwcn/Adobe-Stock-308404590-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Roasted Brussels Sprouts with Balsamic Glaze",
+              "img": "https://i.ibb.co/7SVfjbt/Adobe-Stock-310399331-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Mediterranean Quinoa Salad with Feta and Olives",
+              "img": "https://i.ibb.co/Gsvm22d/Adobe-Stock-322832523-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Christopher Lee",
+          "img": "https://i.ibb.co/Fgbffxd/Adobe-Stock-338155155-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Christopher Lee, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Christopher Lee has honed their skills in a variety of cuisines and cooking techniques. Christopher Lee's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Sweet and Sour Pork Stir-Fry",
+              "img": "https://i.ibb.co/1RmpHVY/Adobe-Stock-386450251-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Roasted Vegetable Frittata",
+              "img": "https://i.ibb.co/YQb4RZS/Adobe-Stock-578476057-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Roasted Vegetable Frittata",
+              "img": "https://i.ibb.co/zXWwY3S/Adobe-Stock-192914731-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "_id": "6450b09f5ff0559d26ad318b",
+    "country": "Thai",
+    "chef": [
+        {
+          "id": 0,
+          "name": "Katherine Jones",
+          "img": "https://i.ibb.co/Pgr0G1C/Adobe-Stock-380008971-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Katherine Jones, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Katherine Jones has honed their skills in a variety of cuisines and cooking techniques. Katherine Jones's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Spaghetti with Tomato Sauce.",
+              "img": "https://i.ibb.co/zZXv5nn/Adobe-Stock-63103746-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Baked Chicken Breasts.",
+              "img": "https://i.ibb.co/TgJQdS3/Adobe-Stock-67960015-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Chocolate Chip Cookies",
+              "img": "https://i.ibb.co/HXZyVQv/Adobe-Stock-83241002-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Brandon Scott",
+          "img": "https://i.ibb.co/c6z4XSk/Adobe-Stock-446192721-Preview.jpg",
+          "experience": 7,
+          "recipe": 25,
+          "likes": 230,
+          "about": "Introducing Brandon Scott, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Brandon Scott has honed their skills in a variety of cuisines and cooking techniques. Brandon Scott's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Spicy Thai Chicken Curry",
+              "img": "https://i.ibb.co/0jNw4Vz/Adobe-Stock-84217400-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Butternut Squash Soup with Crispy Sage",
+              "img": "https://i.ibb.co/72hrtJL/Adobe-Stock-105550746-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id" : 2,
+              "name": "Grilled Shrimp Skewers with Chimichurri Sauce",
+              "img": "https://i.ibb.co/wd4hQKT/Adobe-Stock-183304751-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Olivia Davis",
+          "img": "https://i.ibb.co/Dp4bxBm/Adobe-Stock-447647030-Preview.jpg",
+          "experience": 6,
+          "recipe": 28,
+          "likes": 280,
+          "about": "Introducing Olivia Davis, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Olivia Davis has honed their skills in a variety of cuisines and cooking techniques. Olivia Davis's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity.",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Avocado and Tomato Salad with Lime Dressing",
+              "img": "https://i.ibb.co/zXWwY3S/Adobe-Stock-192914731-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Blueberry and Banana Smoothie Bowl",
+              "img": "https://i.ibb.co/kQCtDN5/Adobe-Stock-222537507-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Baked Parmesan Chicken with Tomato Sauce",
+              "img": "https://i.ibb.co/Fhqvpw7/Adobe-Stock-235582346-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Alexander Kim",
+          "img": "https://i.ibb.co/NTqWhZb/Adobe-Stock-449642931-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Alexander Kim, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Alexander Kim has honed their skills in a variety of cuisines and cooking techniques. Alexander Kim's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity.",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Creamy Garlic Mashed Potatoes",
+              "img": "https://i.ibb.co/FKmp1RF/Adobe-Stock-246131276-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Spicy Black Bean and Sweet Potato Enchiladas",
+              "img": "https://i.ibb.co/0nc8dv1/Adobe-Stock-258979073-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Pesto and Sun-Dried Tomato Pasta Salad",
+              "img": "https://i.ibb.co/0rkVCTQ/Adobe-Stock-261968757-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Jessica Reed",
+          "img": "https://i.ibb.co/PgXJgZD/Adobe-Stock-459627717-Preview.jpg",
+          "experience": 8,
+          "recipe": 26,
+          "likes": 300,
+          "about": "Introducing Jessica Reed, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Jessica Reed has honed their skills in a variety of cuisines and cooking techniques. Jessica Reed's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Chocolate Chip Banana Bread",
+              "img": "https://i.ibb.co/z5cMwcn/Adobe-Stock-308404590-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Roasted Brussels Sprouts with Balsamic Glaze",
+              "img": "https://i.ibb.co/7SVfjbt/Adobe-Stock-310399331-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Mediterranean Quinoa Salad with Feta and Olives",
+              "img": "https://i.ibb.co/Gsvm22d/Adobe-Stock-322832523-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "William Bell",
+          "img": "https://i.ibb.co/cX354qH/Adobe-Stock-496756228-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing William Bell, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, William Bell has honed their skills in a variety of cuisines and cooking techniques. William Bell's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Sweet and Sour Pork Stir-Fry",
+              "img": "https://i.ibb.co/1RmpHVY/Adobe-Stock-386450251-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Roasted Vegetable Frittata",
+              "img": "https://i.ibb.co/YQb4RZS/Adobe-Stock-578476057-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Roasted Vegetable Frittata",
+              "img": "https://i.ibb.co/zXWwY3S/Adobe-Stock-192914731-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "_id": "6450b09f39a32fb5715c59ea",
+    "country": "japanese",
+    "chef": [
+        {
+          "id": 0,
+          "name": "Melissa Parker",
+          "img": "https://i.ibb.co/F55y7xq/Adobe-Stock-503614011-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Melissa Parker, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Melissa Parker has honed their skills in a variety of cuisines and cooking techniques. Melissa Parker's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Spaghetti with Tomato Sauce.",
+              "img": "https://i.ibb.co/zZXv5nn/Adobe-Stock-63103746-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Baked Chicken Breasts.",
+              "img": "https://i.ibb.co/TgJQdS3/Adobe-Stock-67960015-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Chocolate Chip Cookies",
+              "img": "https://i.ibb.co/HXZyVQv/Adobe-Stock-83241002-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Daniel White",
+          "img": "https://i.ibb.co/5c1c0qB/Adobe-Stock-510261130-Preview.jpg",
+          "experience": 7,
+          "recipe": 25,
+          "likes": 230,
+          "about": "Introducing Daniel White, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Daniel White has honed their skills in a variety of cuisines and cooking techniques. Daniel White's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Spicy Thai Chicken Curry",
+              "img": "https://i.ibb.co/0jNw4Vz/Adobe-Stock-84217400-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Butternut Squash Soup with Crispy Sage",
+              "img": "https://i.ibb.co/72hrtJL/Adobe-Stock-105550746-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id" : 2,
+              "name": "Grilled Shrimp Skewers with Chimichurri Sauce",
+              "img": "https://i.ibb.co/wd4hQKT/Adobe-Stock-183304751-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Elizabeth Clark",
+          "img": "https://i.ibb.co/CWPT17g/Adobe-Stock-543204869-Preview.jpg",
+          "experience": 6,
+          "recipe": 28,
+          "likes": 280,
+          "about": "Introducing Elizabeth Clark, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Elizabeth Clark has honed their skills in a variety of cuisines and cooking techniques. Elizabeth Clark's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity.",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Avocado and Tomato Salad with Lime Dressing",
+              "img": "https://i.ibb.co/zXWwY3S/Adobe-Stock-192914731-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Blueberry and Banana Smoothie Bowl",
+              "img": "https://i.ibb.co/kQCtDN5/Adobe-Stock-222537507-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Baked Parmesan Chicken with Tomato Sauce",
+              "img": "https://i.ibb.co/Fhqvpw7/Adobe-Stock-235582346-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Anthony Hill",
+          "img": "https://i.ibb.co/pXnrp2k/Adobe-Stock-47826752-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Anthony Hill, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Anthony Hill has honed their skills in a variety of cuisines and cooking techniques. Anthony Hill's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity.",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Creamy Garlic Mashed Potatoes",
+              "img": "https://i.ibb.co/FKmp1RF/Adobe-Stock-246131276-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Spicy Black Bean and Sweet Potato Enchiladas",
+              "img": "https://i.ibb.co/0nc8dv1/Adobe-Stock-258979073-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Pesto and Sun-Dried Tomato Pasta Salad",
+              "img": "https://i.ibb.co/0rkVCTQ/Adobe-Stock-261968757-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Lauren Young",
+          "img": "https://i.ibb.co/XjcVxgx/Adobe-Stock-58238798-Preview.jpg",
+          "experience": 8,
+          "recipe": 26,
+          "likes": 300,
+          "about": "Introducing Lauren Young, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Lauren Young has honed their skills in a variety of cuisines and cooking techniques. Lauren Young's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Chocolate Chip Banana Bread",
+              "img": "https://i.ibb.co/z5cMwcn/Adobe-Stock-308404590-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Roasted Brussels Sprouts with Balsamic Glaze",
+              "img": "https://i.ibb.co/7SVfjbt/Adobe-Stock-310399331-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Mediterranean Quinoa Salad with Feta and Olives",
+              "img": "https://i.ibb.co/Gsvm22d/Adobe-Stock-322832523-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "David Cooper",
+          "img": "https://i.ibb.co/SPNfNKg/Adobe-Stock-128761569-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing David Cooper, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, David Cooper has honed their skills in a variety of cuisines and cooking techniques. David Cooper's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Sweet and Sour Pork Stir-Fry",
+              "img": "https://i.ibb.co/1RmpHVY/Adobe-Stock-386450251-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Roasted Vegetable Frittata",
+              "img": "https://i.ibb.co/YQb4RZS/Adobe-Stock-578476057-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Roasted Vegetable Frittata",
+              "img": "https://i.ibb.co/zXWwY3S/Adobe-Stock-192914731-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "_id": "6450b09f4be1906cc311294d",
+    "country": "Italian",
+    "chef": [
+        {
+          "id": 0,
+          "name": "Victoria Nguyen",
+          "img": "https://i.ibb.co/D11V2DW/Adobe-Stock-162375830-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Victoria Nguyen, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Victoria Nguyen has honed their skills in a variety of cuisines and cooking techniques. Victoria Nguyen's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Spaghetti with Tomato Sauce.",
+              "img": "https://i.ibb.co/zZXv5nn/Adobe-Stock-63103746-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Baked Chicken Breasts.",
+              "img": "https://i.ibb.co/TgJQdS3/Adobe-Stock-67960015-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Chocolate Chip Cookies",
+              "img": "https://i.ibb.co/HXZyVQv/Adobe-Stock-83241002-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Jonathan Hayes",
+          "img": "https://i.ibb.co/rdHXZ21/Adobe-Stock-182424344-Preview.jpg",
+          "experience": 7,
+          "recipe": 25,
+          "likes": 230,
+          "about": "Introducing Jonathan Hayes, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Jonathan Hayes has honed their skills in a variety of cuisines and cooking techniques. Jonathan Hayes's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Spicy Thai Chicken Curry",
+              "img": "https://i.ibb.co/0jNw4Vz/Adobe-Stock-84217400-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Butternut Squash Soup with Crispy Sage",
+              "img": "https://i.ibb.co/72hrtJL/Adobe-Stock-105550746-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id" : 2,
+              "name": "Grilled Shrimp Skewers with Chimichurri Sauce",
+              "img": "https://i.ibb.co/wd4hQKT/Adobe-Stock-183304751-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Ashley Murphy",
+          "img": "https://i.ibb.co/59YJ83P/Adobe-Stock-215213355-Preview.jpg",
+          "experience": 6,
+          "recipe": 28,
+          "likes": 280,
+          "about": "Introducing Ashley Murphy, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Ashley Murphy has honed their skills in a variety of cuisines and cooking techniques. Ashley Murphy's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity.",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Avocado and Tomato Salad with Lime Dressing",
+              "img": "https://i.ibb.co/zXWwY3S/Adobe-Stock-192914731-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Blueberry and Banana Smoothie Bowl",
+              "img": "https://i.ibb.co/kQCtDN5/Adobe-Stock-222537507-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Baked Parmesan Chicken with Tomato Sauce",
+              "img": "https://i.ibb.co/Fhqvpw7/Adobe-Stock-235582346-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Nicholas Cruz",
+          "img": "https://i.ibb.co/M2D9ygS/Adobe-Stock-268233954-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Nicholas Cruz, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Nicholas Cruz has honed their skills in a variety of cuisines and cooking techniques. Nicholas Cruz's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity.",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Creamy Garlic Mashed Potatoes",
+              "img": "https://i.ibb.co/FKmp1RF/Adobe-Stock-246131276-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Spicy Black Bean and Sweet Potato Enchiladas",
+              "img": "https://i.ibb.co/0nc8dv1/Adobe-Stock-258979073-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Pesto and Sun-Dried Tomato Pasta Salad",
+              "img": "https://i.ibb.co/0rkVCTQ/Adobe-Stock-261968757-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Samantha James",
+          "img": "https://i.ibb.co/NnRBphX/Adobe-Stock-268705523-Preview.jpg",
+          "experience": 8,
+          "recipe": 26,
+          "likes": 300,
+          "about": "Introducing Samantha James, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Samantha James has honed their skills in a variety of cuisines and cooking techniques. Samantha James's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Chocolate Chip Banana Bread",
+              "img": "https://i.ibb.co/z5cMwcn/Adobe-Stock-308404590-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Roasted Brussels Sprouts with Balsamic Glaze",
+              "img": "https://i.ibb.co/7SVfjbt/Adobe-Stock-310399331-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Mediterranean Quinoa Salad with Feta and Olives",
+              "img": "https://i.ibb.co/Gsvm22d/Adobe-Stock-322832523-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Andrew Gray",
+          "img": "https://i.ibb.co/RB6FXXt/Adobe-Stock-290517157-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Andrew Gray, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Andrew Gray has honed their skills in a variety of cuisines and cooking techniques. Andrew Gray's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Sweet and Sour Pork Stir-Fry",
+              "img": "https://i.ibb.co/1RmpHVY/Adobe-Stock-386450251-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Roasted Vegetable Frittata",
+              "img": "https://i.ibb.co/YQb4RZS/Adobe-Stock-578476057-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Roasted Vegetable Frittata",
+              "img": "https://i.ibb.co/zXWwY3S/Adobe-Stock-192914731-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "_id": "6450b09f7c7f9f81b5bbb33d",
+    "country": "American",
+    "chef": [
+        {
+          "id": 0,
+          "name": "Isabella Rivera",
+          "img": "https://i.ibb.co/Ybh7ZBR/Adobe-Stock-290924250-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Isabella Rivera, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Isabella Rivera has honed their skills in a variety of cuisines and cooking techniques. Isabella Rivera's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Spaghetti with Tomato Sauce.",
+              "img": "https://i.ibb.co/zZXv5nn/Adobe-Stock-63103746-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Baked Chicken Breasts.",
+              "img": "https://i.ibb.co/TgJQdS3/Adobe-Stock-67960015-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Chocolate Chip Cookies",
+              "img": "https://i.ibb.co/HXZyVQv/Adobe-Stock-83241002-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Timothy Wilson",
+          "img": "https://i.ibb.co/qDnqv1P/Adobe-Stock-293419914-Preview.jpg",
+          "experience": 7,
+          "recipe": 25,
+          "likes": 230,
+          "about": "Introducing Timothy Wilson, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Timothy Wilson has honed their skills in a variety of cuisines and cooking techniques. Timothy Wilson's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Spicy Thai Chicken Curry",
+              "img": "https://i.ibb.co/0jNw4Vz/Adobe-Stock-84217400-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Butternut Squash Soup with Crispy Sage",
+              "img": "https://i.ibb.co/72hrtJL/Adobe-Stock-105550746-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id" : 2,
+              "name": "Grilled Shrimp Skewers with Chimichurri Sauce",
+              "img": "https://i.ibb.co/wd4hQKT/Adobe-Stock-183304751-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Ava Patel",
+          "img": "https://i.ibb.co/Fgbffxd/Adobe-Stock-338155155-Preview.jpg",
+          "experience": 6,
+          "recipe": 28,
+          "likes": 280,
+          "about": "Introducing Ava Patel, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Ava Patel has honed their skills in a variety of cuisines and cooking techniques. Ava Patel's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity.",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Avocado and Tomato Salad with Lime Dressing",
+              "img": "https://i.ibb.co/zXWwY3S/Adobe-Stock-192914731-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Blueberry and Banana Smoothie Bowl",
+              "img": "https://i.ibb.co/kQCtDN5/Adobe-Stock-222537507-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Baked Parmesan Chicken with Tomato Sauce",
+              "img": "https://i.ibb.co/Fhqvpw7/Adobe-Stock-235582346-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Peter Kim",
+          "img": "https://i.ibb.co/Pgr0G1C/Adobe-Stock-380008971-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Peter Kim, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Peter Kim has honed their skills in a variety of cuisines and cooking techniques. Peter Kim's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity.",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Creamy Garlic Mashed Potatoes",
+              "img": "https://i.ibb.co/FKmp1RF/Adobe-Stock-246131276-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Spicy Black Bean and Sweet Potato Enchiladas",
+              "img": "https://i.ibb.co/0nc8dv1/Adobe-Stock-258979073-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Pesto and Sun-Dried Tomato Pasta Salad",
+              "img": "https://i.ibb.co/0rkVCTQ/Adobe-Stock-261968757-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Madison Foster",
+          "img": "https://i.ibb.co/c6z4XSk/Adobe-Stock-446192721-Preview.jpg",
+          "experience": 8,
+          "recipe": 26,
+          "likes": 300,
+          "about": "Introducing Madison Foster, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Madison Foster has honed their skills in a variety of cuisines and cooking techniques. Madison Foster's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Chocolate Chip Banana Bread",
+              "img": "https://i.ibb.co/z5cMwcn/Adobe-Stock-308404590-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Roasted Brussels Sprouts with Balsamic Glaze",
+              "img": "https://i.ibb.co/7SVfjbt/Adobe-Stock-310399331-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Mediterranean Quinoa Salad with Feta and Olives",
+              "img": "https://i.ibb.co/Gsvm22d/Adobe-Stock-322832523-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Ryan Chen",
+          "img": "https://i.ibb.co/Dp4bxBm/Adobe-Stock-447647030-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Ryan Chen, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Ryan Chen has honed their skills in a variety of cuisines and cooking techniques. Ryan Chen's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Sweet and Sour Pork Stir-Fry",
+              "img": "https://i.ibb.co/1RmpHVY/Adobe-Stock-386450251-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Roasted Vegetable Frittata",
+              "img": "https://i.ibb.co/YQb4RZS/Adobe-Stock-578476057-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Roasted Vegetable Frittata",
+              "img": "https://i.ibb.co/zXWwY3S/Adobe-Stock-192914731-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "_id": "6450b09f46fda8b7c5c36356",
+    "country": "Chinese",
+    "chef": [
+        {
+          "id": 0,
+          "name": "Sophia Lee",
+          "img": "https://i.ibb.co/NTqWhZb/Adobe-Stock-449642931-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Sophia Lee, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Sophia Lee has honed their skills in a variety of cuisines and cooking techniques. Sophia Lee's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Spaghetti with Tomato Sauce.",
+              "img": "https://i.ibb.co/zZXv5nn/Adobe-Stock-63103746-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Baked Chicken Breasts.",
+              "img": "https://i.ibb.co/TgJQdS3/Adobe-Stock-67960015-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Chocolate Chip Cookies",
+              "img": "https://i.ibb.co/HXZyVQv/Adobe-Stock-83241002-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Josephine Wright",
+          "img": "https://i.ibb.co/PgXJgZD/Adobe-Stock-459627717-Preview.jpg",
+          "experience": 7,
+          "recipe": 25,
+          "likes": 230,
+          "about": "Introducing Josephine Wright, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Josephine Wright has honed their skills in a variety of cuisines and cooking techniques. Josephine Wright's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Spicy Thai Chicken Curry",
+              "img": "https://i.ibb.co/0jNw4Vz/Adobe-Stock-84217400-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Butternut Squash Soup with Crispy Sage",
+              "img": "https://i.ibb.co/72hrtJL/Adobe-Stock-105550746-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id" : 2,
+              "name": "Grilled Shrimp Skewers with Chimichurri Sauce",
+              "img": "https://i.ibb.co/wd4hQKT/Adobe-Stock-183304751-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Gabriel Rodriguez",
+          "img": "https://i.ibb.co/cX354qH/Adobe-Stock-496756228-Preview.jpg",
+          "experience": 6,
+          "recipe": 28,
+          "likes": 280,
+          "about": "Introducing Gabriel Rodriguez, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Gabriel Rodriguez has honed their skills in a variety of cuisines and cooking techniques. Gabriel Rodriguez's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity.",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Avocado and Tomato Salad with Lime Dressing",
+              "img": "https://i.ibb.co/zXWwY3S/Adobe-Stock-192914731-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Blueberry and Banana Smoothie Bowl",
+              "img": "https://i.ibb.co/kQCtDN5/Adobe-Stock-222537507-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Baked Parmesan Chicken with Tomato Sauce",
+              "img": "https://i.ibb.co/Fhqvpw7/Adobe-Stock-235582346-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Natalie Lee",
+          "img": "https://i.ibb.co/F55y7xq/Adobe-Stock-503614011-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Natalie Lee, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Natalie Lee has honed their skills in a variety of cuisines and cooking techniques. Natalie Lee's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity.",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Creamy Garlic Mashed Potatoes",
+              "img": "https://i.ibb.co/FKmp1RF/Adobe-Stock-246131276-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Spicy Black Bean and Sweet Potato Enchiladas",
+              "img": "https://i.ibb.co/0nc8dv1/Adobe-Stock-258979073-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Pesto and Sun-Dried Tomato Pasta Salad",
+              "img": "https://i.ibb.co/0rkVCTQ/Adobe-Stock-261968757-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Joshua Taylor",
+          "img": "https://i.ibb.co/5c1c0qB/Adobe-Stock-510261130-Preview.jpg",
+          "experience": 8,
+          "recipe": 26,
+          "likes": 300,
+          "about": "Introducing Joshua Taylor, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Joshua Taylor has honed their skills in a variety of cuisines and cooking techniques. Joshua Taylor's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Chocolate Chip Banana Bread",
+              "img": "https://i.ibb.co/z5cMwcn/Adobe-Stock-308404590-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Roasted Brussels Sprouts with Balsamic Glaze",
+              "img": "https://i.ibb.co/7SVfjbt/Adobe-Stock-310399331-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Mediterranean Quinoa Salad with Feta and Olives",
+              "img": "https://i.ibb.co/Gsvm22d/Adobe-Stock-322832523-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Emily Hernandez",
+          "img": "https://i.ibb.co/CWPT17g/Adobe-Stock-543204869-Preview.jpg",
+          "experience": 5,
+          "recipe": 22,
+          "likes": 200,
+          "about": "Introducing Emily Hernandez, a culinary artist with a passion for creating delicious and visually stunning dishes. With [number of years] of experience in the industry, Emily Hernandez has honed their skills in a variety of cuisines and cooking techniques. Emily Hernandez's style is defined by their ability to blend traditional and modern techniques, creating dishes that are both classic and innovative. They believe that food should not only taste great but also look beautiful, and they take great care in plating each dish with precision and creativity. ",
+          "recipeList": [
+            {
+              "id": 0,
+              "name": "Sweet and Sour Pork Stir-Fry",
+              "img": "https://i.ibb.co/1RmpHVY/Adobe-Stock-386450251-Preview.jpg",
+              "ingredients": [
+                "1 pound spaghetti",
+                "2 tablespoons olive oil",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes"
+              ],
+              "method": "Cook spaghetti in a large pot of boiling salted water, according to package instructions. Drain and set aside. In a large skillet over medium heat, heat olive oil. Add onion and garlic and cook until softened, about 5 minutes.Add crushed tomatoes and bring to a simmer. Cook for 10-15 minutes until the sauce has thickened.Season with salt and pepper to taste. Serve the sauce over the cooked spaghetti. Garnish with grated Parmesan cheese and fresh basil leaves, if desired.",
+              "ratings": 4.5
+            },
+            {
+              "id": 1,
+              "name": "Roasted Vegetable Frittata",
+              "img": "https://i.ibb.co/YQb4RZS/Adobe-Stock-578476057-Preview.jpg",
+              "ingredients": [
+                "4 boneless, skinless chicken breasts",
+                "2 tablespoons olive oil",
+                "1 teaspoon garlic powder",
+                "1 teaspoon paprika",
+                "1/2 teaspoon black pepper"
+              ],
+              "method": "Preheat the oven to 400°F (200°C).Rub chicken breasts with olive oil and seasonings, making sure to coat both sides evenly.Place chicken breasts in a baking dish and bake for 20-25 minutes or until the internal temperature reaches 165°F (74°C). Remove from the oven and let rest for 5 minutes before serving.",
+              "ratings": 4.8
+            },
+            {
+              "id": 2,
+              "name": "Roasted Vegetable Frittata",
+              "img": "https://i.ibb.co/zXWwY3S/Adobe-Stock-192914731-Preview.jpg",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 teaspoon baking soda",
+                "1 teaspoon salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white granulated sugar"
+              ],
+              "method": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together flour, baking soda, and salt. In a large bowl, cream together butter, white sugar, and brown sugar until light and fluffy. Beat in eggs and vanilla until well combined. Gradually stir in the flour mixture until a dough forms. Fold in chocolate chips.Bake for 10-12 minutes or until golden brown. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+              "ratings": 4.7
+            }
+          ]
+        }
+      ]
+  }
+]
+
