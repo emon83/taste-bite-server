@@ -25,12 +25,6 @@ app.get('/recipeData/:id', (req, res) =>{
     res.send(selectedData1);
 })
 
-/* app.get('/allData/:id', (req, res) =>{
-    const id = req.params.id;
-    const selectedData = allData.find(data => data._id === id);
-    res.send(selectedData);
-}) */
-
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`)
   })
