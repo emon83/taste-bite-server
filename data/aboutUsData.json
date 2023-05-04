@@ -1,0 +1,38 @@
+[
+    {
+      "_id": "6453591cd29ddc924925534f",
+      "picture": "https://i.ibb.co/W2ZhThj/abut-img1.jpg",
+      "name": "LILY ERNST",
+      "designation": "Owner and Director of Sponsorship & Marketing",
+      "description": [
+        {
+          "id": 0,
+          "details": "Lily Ernst is a biochemist turned digital advertising sales rep turned six-figure blogger. She started her blog, Little Sweet Baker, back in 2014 as a hobby while she was on maternity leave, and went full-time in 2017."
+        },
+        {
+          "id": 1,
+          "details": "As an FBC member since she first started blogging, Lily has seen firsthand the value of this community and its members. FBC was instrumental in the success of her own business, so she wants to make sure the community continues to be there as a resource for other Canadian food content creators. "
+        },
+        {
+          "id": 2,
+          "details": "Lily has worked with many industry experts and big brand companies. She has learned over the years all the dos and don'ts of food blogging, how to keep up with all the changes, and especially how to cut through all the noise so you can narrow in and focus on what needs to be done to turn your blog into a thriving business."
+        }
+      ]
+    },
+    {
+      "_id": "6453591ce496fb679bce6bc0",
+      "picture": "https://i.ibb.co/9qTN6HG/about-img2.jpg",
+      "name": "ILONA KRZYMIANOWSKI - ORZECHOWSKA",
+      "designation": "Managing Editor and Social Media Co-ordinator",
+      "description": [
+        {
+          "id": 0,
+          "details": "Ilona is a blogger, food photographer, cook, and baker. She shares sweet and savoury recipes for everyday cooking and entertaining on ilonaspassion.com website. In the past, Ilona worked as a recipe contributor for various US-based websites. In 2017 she won the Appetizer Spotlight Contest with Mushrooms Canada featuring Canada-themed appetizers."
+        },
+        {
+          "id": 1,
+          "details": "She was born in Poland where she spent her childhood and teenage years. In 1999 she moved to Chicago where she lived for many years and earned a Bachelor's Degree in Administration. Today, she lives in Southern Ontario with her husband and two sons where she works as a professional organizer as well."
+        }
+      ]
+    }
+  ]

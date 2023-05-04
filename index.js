@@ -9,6 +9,7 @@ const allData = require('./data/chefData.json')
 const recipeData = require('./data/recipeData.json')
 const sectionData1 = require('./data/section1Data.json')
 const sectionData2 = require('./data/section2Data.json')
+const aboutUsData = require('./data/aboutUsData.json')
 
 app.get('/', (req, res) => {
     res.json({message: "testibite server is running!"})
@@ -28,6 +29,9 @@ app.get('/sectionData2', (req, res) =>{
 
 app.get('/recipeData', (req, res) =>{
     res.send(recipeData);
+})
+app.get('/aboutUs', (req, res) =>{
+    res.send(aboutUsData);
 })
 app.get('/recipeData/:id', (req, res) =>{
     const id = req.params.id;
