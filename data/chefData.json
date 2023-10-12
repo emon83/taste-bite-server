@@ -2,7 +2,7 @@
   {
     "_id": "6450b09f18b29e146ec20672",
     "country": "Bangladeshi",
-    "food_img": "https://i.ibb.co/TYHL1FY/Panta-Ilish.jpg",
+    "food_img": "https://imgpile.com/images/DckgdR.jpg",
     "chef": [
         {
           "id": 0,
@@ -327,7 +327,7 @@
   {
     "_id": "6450b09fcd5344a45c281c13",
     "country": "Indian",
-    "food_img": "https://i.ibb.co/PFFxgwt/indian-food.jpg",
+    "food_img": "https://imgpile.com/images/DckDO1.jpg",
     "chef": [
         {
           "id": 0,
@@ -652,7 +652,7 @@
   {
     "_id": "6450b09f5ff0559d26ad318b",
     "country": "Thai",
-    "food_img": "https://i.ibb.co/k1CRCdB/thai-food.jpg",
+    "food_img": "https://imgpile.com/images/Dckvmg.jpg",
     "chef": [
         {
           "id": 0,
@@ -977,7 +977,7 @@
   {
     "_id": "6450b09f39a32fb5715c59ea",
     "country": "japanese",
-    "food_img": "https://i.ibb.co/CKyLrY8/japan-food.jpg",
+    "food_img": "https://imgpile.com/images/Dck3gc.jpg",
     "chef": [
         {
           "id": 0,
@@ -1302,7 +1302,7 @@
   {
     "_id": "6450b09f4be1906cc311294d",
     "country": "Italian",
-    "food_img": "https://i.ibb.co/64KQ3J0/itilian-food.jpg",
+    "food_img": "https://imgpile.com/images/DckEUN.jpg",
     "chef": [
         {
           "id": 0,
@@ -1627,7 +1627,7 @@
   {
     "_id": "6450b09f7c7f9f81b5bbb33d",
     "country": "American",
-    "food_img": "https://i.ibb.co/WWvpTgn/americian-food.jpg",
+    "food_img": "https://imgpile.com/images/DckdQN.jpg",
     "chef": [
         {
           "id": 0,
@@ -1952,7 +1952,7 @@
   {
     "_id": "6450b09f46fda8b7c5c36356",
     "country": "Chinese",
-    "food_img": "https://i.ibb.co/yFDWp6H/chinese-food.jpg",
+    "food_img": "https://imgpile.com/images/Dck97W.jpg",
     "chef": [
         {
           "id": 0,
@@ -2277,7 +2277,7 @@
   {
     "_id": "64516af695dff67c48ff7a50",
     "country": "Australian",
-    "food_img": "https://i.ibb.co/z5cMwcn/Adobe-Stock-308404590-Preview.jpg",
+    "food_img": "https://imgpile.com/images/DcOG8k.jpg",
     "chef": [
         {
           "id": 0,
@@ -2600,4 +2600,3 @@
       ]
   }
 ]
-
